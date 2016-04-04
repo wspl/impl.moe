@@ -15,7 +15,7 @@ module.exports = merge(baseConfig, {
     // naming output files with hashes for better caching.
     // dist/index.html will be auto-generated with correct URLs.
     filename: '[name].[chunkhash].js',
-    chunkFilename: '[id].[chunkhash].js'
+    chunkFilename: '[id].[chunkhash].js',
   },
   vue: {
     loaders: cssLoaders({

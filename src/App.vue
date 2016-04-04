@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img class="logo" src="./assets/logo.png">
+    <img class="logo" src="./assets/th.jpg">
     <hello></hello>
     <p>
       Welcome to your Vue.js app. To get started, take a look at the
